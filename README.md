@@ -19,5 +19,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Badges
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizralvi&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizralvi&layout=compact&theme=radical) 
 
